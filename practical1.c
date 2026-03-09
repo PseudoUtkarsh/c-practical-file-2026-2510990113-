@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello World!!");       // 2510990027
+    printf("internals me full marks dedo please");       // 2510990113
     return 0;
 
 }
+
